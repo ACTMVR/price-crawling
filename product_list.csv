@@ -1,0 +1,9 @@
+id,product,platform,base_url,product_id
+1,닭정육,foodspring,https://www.foodspring.co.kr/goods/detail/,654981
+2,쌀,foodspring,https://www.foodspring.co.kr/goods/detail/,386084
+3,닭정육,baemin,https://mart.baemin.com/goods/detail/,102968
+5,닭정육,chabyulhwa,https://www.chabyulhwa.com/products/,4126613
+6,쌀,chabyulhwa,https://www.chabyulhwa.com/products/,5106944
+7,쌀,orderplus,https://www.orderplus.io/products/,173828
+8,닭정육,orderplus,https://www.orderplus.io/products/,120762
+9,쌀,ewangmart,https://www.ewangmart.com/goods/detail.do?gno=,96867
